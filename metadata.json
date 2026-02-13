@@ -1,0 +1,9 @@
+{
+  "name": "oko",
+  "description": "A comprehensive fitness tracking and coaching platform with RTL support, workout logging, progress visualization, and AI-powered exercise tips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
